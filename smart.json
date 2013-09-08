@@ -1,0 +1,9 @@
+{
+	"name": "jquery-autosize",
+	"description": "Automatically adjust textarea height based on user input. (jquery-autosize repackaged for Meteor)",
+  "homepage": "https://github.com/spendflow/meteor-jquery-autosize",
+  "author": "Spendflow (@spendflow) (http://spendflow.co)",
+	"version": "1.17.8-0",
+  "git": "https://github.com/spendflow/meteor-jquery-autosize.git",
+  "packages": {}
+}
