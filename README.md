@@ -6,7 +6,7 @@ jQuery Autosize ("a plugin to automatically adjust textarea height") repackaged 
 ## Installation
 
 1. `npm install -g meteorite` (if not already installed)
-1. `mrt install jquery-autosize`
+1. `mrt add jquery-autosize`
 1. Call `$(selector).autosize()` in your `Template.templateName.rendered` callback, where `selector` is a jQuery selector.
 
 Example:
