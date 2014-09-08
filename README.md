@@ -1,3 +1,5 @@
+# Use [`copleykj:jquery-autosize`](https://github.com/copleykj/meteor-jquery-autosize) for Meteor 0.9.0+.
+
 meteor-jquery-autosize
 ======================
 
